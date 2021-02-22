@@ -1,0 +1,7 @@
+{
+  "name": "rmango-nodejs-clean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Victor <joaovictorslf@gmail.com>",
+  "license": "MIT"
+}
