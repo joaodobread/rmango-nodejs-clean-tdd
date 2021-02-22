@@ -4,7 +4,7 @@ export default {
   coverageDirectory: 'coverage',
   coverageProvider: 'v8',
   roots: [
-    '<rootDir>/src/'
+    '<rootDir>/src'
   ],
   testEnvironment: 'node',
   transform: {
