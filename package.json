@@ -24,6 +24,7 @@
   "scripts": {
     "test": "jest",
     "test:staged": "jest --passWithNoTests",
+    "test:watch": "jest --passWithNoTests --watch",
     "postinstall": "husky install"
   }
 }
